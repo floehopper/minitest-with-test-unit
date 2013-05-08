@@ -1,0 +1,16 @@
+GIT
+  remote: git@github.com:floehopper/minitest.git
+  revision: 89f39594f40f1001c4dbbc2b931006f024480ba6
+  branch: with-gemspec
+  specs:
+    minitest (5.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest!
